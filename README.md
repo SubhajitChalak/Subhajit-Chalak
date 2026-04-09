@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Subhajit Chalak 👋<br>A 3rd-year Computer Science (CSE Core) student at Brainware University with a strong interest in software development.<br><br>I have a basic understanding of Java and web development, and I enjoy building simple, practical applications while improving my problem-solving skills. I'm currently focused on strengthening my knowledge in programming, data structures, and full-stack development.<br><br>I'm always eager to learn new technologies, work on projects, and grow as a developer.<br><br>🚀 Passionate about coding, learning, and building.<br>
+Hi, I'm Subhajit-Chalak 👋<br>A 3rd-year Computer Science (CSE Core) student at Brainware University with a strong interest in software development.<br><br>I have a basic understanding of Java and web development, and I enjoy building simple, practical applications while improving my problem-solving skills. I'm currently focused on strengthening my knowledge in programming, data structures, and full-stack development.<br><br>I'm always eager to learn new technologies, work on projects, and grow as a developer.<br><br>🚀 Passionate about coding, learning, and building.<br>
 
 
 ## 🌐 Socials:
